@@ -9,7 +9,7 @@
     "cypress:runDefault": "cypress run --spec cypress/integration/pom/*.spec.js",
     "cypress:chrome": "cypress run --browser chrome --spec cypress/integration/pom/*.spec.js",
     "cypress:edge": "cypress run --browser edge --spec cypress/integration/pom/*.spec.js",
-    "cypress:runChromeHeadless": "cypress run --headless --browser chrome --spec cypress/integration/pom/*.spec.js --record --key 4bc50df7-5eee-4147-8eb3-ccea611c8d4b"
+    "cypress:runChromeHeadless": "cypress run --headless --browser chrome --spec cypress/integration/pom/*.spec.js --record --key bb78d979-c547-49ab-800f-e8979fec220d"
   },
   "keywords": [
     "e2e",
